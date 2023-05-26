@@ -5,7 +5,7 @@ Welcome to my bioinformatics portfolio,where I am excited to share some of the p
 * Date
 * Location
 * Summary
-link to the projects report
+
 Find out the projects analysis steps and outputs at [Metagenomics.md](https://github.com/Parcelli/Bioinformatics-portfolio/blob/gh.pages/RNASeq-Project.md)
 
 ## Project 02
@@ -13,11 +13,13 @@ Find out the projects analysis steps and outputs at [Metagenomics.md](https://gi
 * Date
 * Location
 * Summary
-Find the projects analysis steps and outputs at[RNASeq](https://github.com/Parcelli/Bioinformatics-portfolio/blob/gh.pages/RNASeq-Project.md)
+
+Find the projects analysis steps and outputs at [RNASeq](https://github.com/Parcelli/Bioinformatics-portfolio/blob/gh.pages/RNASeq-Project.md).
 
 ## Project 03
 ### AMR detection from Oxford Nanopore reads using Galaxy
 * Date
 * Location
 * Summary
-Find the projects analysis steps and outputs at [AMR](https://github.com/Parcelli/Bioinformatics-portfolio/blob/gh.pages/AMR-detection.md)
+
+Find the projects analysis steps and outputs at [AMR](https://github.com/Parcelli/Bioinformatics-portfolio/blob/gh.pages/AMR-detection.md).
