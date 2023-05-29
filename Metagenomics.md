@@ -46,5 +46,6 @@ Beta diversity measures difference in species between samples.
 
 ![beta-bee](https://github.com/Parcelli/Bioinformatics-portfolio/assets/85280870/9c926015-3cf3-4e31-a211-7e0dc033e9df)
 
-* Projects github repo
+**Projects report**
+
 The bioinformatics analysis codes and pipelines are hosted on this [github](https://github.com/mbbu/Fungi_Identification/blob/zanzibar_subset/scratchpad/report.md) page.
