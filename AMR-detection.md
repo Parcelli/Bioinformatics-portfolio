@@ -12,7 +12,7 @@ The advent of long read sequencers like Oxford nanopore presents a new possibili
 
 This workflow is presented in Smörgåsbord 2023 (Free online galaxy training conducted by Galaxy team) Antibiotic resistance tutorial. Galaxy is a web-based platform for reproducible computational analysis.
 
-I present here the bioinformatics analysis pipeline learnt from the tutorial for detection of[Antibiotic resistance](https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/tutorial.html).
+I present here the bioinformatics analysis pipeline learnt from the tutorial for detection of [Antibiotic resistance](https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/tutorial.html).
 
 ## Data
 ## Analysis steps
