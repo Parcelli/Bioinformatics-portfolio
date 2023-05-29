@@ -10,16 +10,14 @@ Misuse of antibiotics for Human disease treatment, as well as for various agricu
 
 The advent of long read sequencers like Oxford nanopore presents a new possibility for quick detection  and characterization of AMR.
 
-This work was done as part of Smörgåsbord 2023 (Free online galaxy training conducted by Galaxy team). Galaxy is a web-based platform for reproducible computational analysis.
+This workflow is presented in Smörgåsbord 2023 (Free online galaxy training conducted by Galaxy team) Antibiotic resistance tutorial. Galaxy is a web-based platform for reproducible computational analysis.
 
-I present here the bioinformatics analysis pipeline learnt from the tutorial for detection of Antibiotic Resistance.
+I present here the bioinformatics analysis pipeline learnt from the tutorial for detection of[Antibiotic resistance](https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/tutorial.html).
 
 ## Data
 ## Analysis steps
-* Quality control - Nanoplot (Alternative tools FASTQC and Multiqc)
-* De Novo Assembly - Minimap2
-* Ultrafast 
-* Species and Plasmids
+![image](https://github.com/Parcelli/Bioinformatics-portfolio/assets/85280870/e42044a3-b7ee-4771-ba0c-55875086aa28)
+
 
 ## Workflow snip
 ![Screenshot from 2023-05-26 11-20-00](https://github.com/Parcelli/Bioinformatics-portfolio/assets/85280870/4c192f4b-0a0c-4350-aa0b-b34aa7e09915)
