@@ -32,7 +32,7 @@ Find the project report [here](https://github.com/mbbu/Stomoxys_Indica_Assembly/
 
 ## Project 04
 ### AMR detection from Oxford Nanopore reads using Galaxy
-* Date
+* Date: 22 -26 May 2023
 * Location:Smorgasbord2023 Galaxy Training Network (tutorial)
 
 
