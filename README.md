@@ -13,8 +13,7 @@ Find the project report [here](https://docs.google.com/presentation/d/1wYeKWeOok
 ## Project 02
 ### RNA Seq workflow automated in Galaxy
 * Date: Aug - Dec 2022
-* Location: Rayca Precision(remote)
-* Summary
+* Location: Rayca Precision (remote)
 
 Find the projects analysis steps and outputs at [RNASeq](https://github.com/Parcelli/Bioinformatics-portfolio/blob/gh.pages/RNASeq-Project.md).
 
@@ -35,6 +34,6 @@ Find the project report [here](https://github.com/mbbu/Stomoxys_Indica_Assembly/
 ### AMR detection from Oxford Nanopore reads using Galaxy
 * Date
 * Location:Smorgasbord2023 Galaxy Training Network (tutorial)
-* Summary
+
 
 Find the projects analysis steps and outputs at [AMR](https://github.com/Parcelli/Bioinformatics-portfolio/blob/gh.pages/AMR-detection.md).
